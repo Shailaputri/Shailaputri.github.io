@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shailaputri</title>
+	<atom:link href="http://localhost/feed/?simply_static_page=2263" rel="self" type="application/rss+xml" />
+	<link>http://shailaputri.github.io./</link>
+	<description>Software Developer</description>
+	<lastBuildDate>Wed, 17 May 2023 01:47:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Home</title>
+		<link>http://shailaputri.github.io./2023/05/17/home/</link>
+					<comments>http://shailaputri.github.io./2023/05/17/home/#respond</comments>
+		
+		<dc:creator><![CDATA[pooja]]></dc:creator>
+		<pubDate>Wed, 17 May 2023 01:47:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://shailaputri.github.io./?p=11</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam neque, quis lobortis ex accumsan convallis. Quisque finibus, enim sit amet elementum mattis, velit dolor feugiat risus, ac gravida nisi lacus vulputate orci. Phasellus eget blandit justo. Donec sit amet augue a dui lacinia pretium. Cras id blandit nisl. Sed vulputate ac dui quis [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique diam neque, quis lobortis ex accumsan convallis. Quisque finibus, enim sit amet elementum mattis, velit dolor feugiat risus, ac gravida nisi lacus vulputate orci. Phasellus eget blandit justo. Donec sit amet augue a dui lacinia pretium. Cras id blandit nisl. Sed vulputate ac dui quis consectetur. Suspendisse consequat a purus sit amet congue. Maecenas eget orci faucibus, egestas augue vitae, sagittis odio. Duis a elementum nisl. Nulla facilisi. Donec vitae interdum mi.</p>
+
+
+
+<p>Nunc vel enim convallis, iaculis dolor a, malesuada ligula. Duis gravida metus ac ante tempor facilisis. Vivamus velit velit, mattis id magna sit amet, placerat pretium mi. Curabitur ornare est vitae nisl porttitor iaculis. Aenean eget erat id justo tincidunt lobortis vel quis nisl. Fusce consectetur, risus nec dapibus vehicula, arcu lorem porttitor tellus, eu sollicitudin augue augue a dui. Ut ac erat massa. Donec quis eleifend enim.</p>
+
+
+
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img decoding="async" width="788" height="787" class="wp-block-cover__image-background wp-image-12" alt="" src="http://shailaputri.github.io./wp-content/uploads/2023/05/Screenshot-2023-05-16-at-10.07.07-PM.png" data-object-fit="cover" srcset="http://shailaputri.github.io./wp-content/uploads/2023/05/Screenshot-2023-05-16-at-10.07.07-PM.png 788w, http://shailaputri.github.io./wp-content/uploads/2023/05/Screenshot-2023-05-16-at-10.07.07-PM-300x300.png 300w, http://shailaputri.github.io./wp-content/uploads/2023/05/Screenshot-2023-05-16-at-10.07.07-PM-150x150.png 150w, http://shailaputri.github.io./wp-content/uploads/2023/05/Screenshot-2023-05-16-at-10.07.07-PM-768x767.png 768w" sizes="(max-width: 788px) 100vw, 788px" /><div class="wp-block-cover__inner-container">
+<p class="has-text-align-center has-huge-font-size">Welcome to my page</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://shailaputri.github.io./2023/05/17/home/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://shailaputri.github.io./2023/05/02/hello-world/</link>
+					<comments>http://shailaputri.github.io./2023/05/02/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[pooja]]></dc:creator>
+		<pubDate>Tue, 02 May 2023 15:30:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://shailaputri.github.io./?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://shailaputri.github.io./2023/05/02/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
